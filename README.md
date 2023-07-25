@@ -30,27 +30,33 @@ Because I am completely new to Android development, I decided to "practice" by b
 ## 📲 Current Progress
 Currently, I am able to start a Pomodoro and stop it, as well as show the current time in a TextView. As mentioned earlier, I want to develop the backend first, and then the frontend. That said, the current UI is simply for testing and development purposes. The endgoal for its UI is below as a Figma  design. 
 
-![Screenshot 2023-07-25 103339](https://github.com/cervand/PomoDo/assets/95746489/38535d20-3b2c-48ca-b835-77cefbb2fb9d)
-
+<p>
+   <img src="https://github.com/cervand/PomoDo/assets/95746489/38535d20-3b2c-48ca-b835-77cefbb2fb9d" alt="Screenshot 2023-07-25 102358" width="200">
+</p>
 
 
 ## 🖌️ Endgoal UI
-<h3>Version 0.2 </h3>
-![image](https://github.com/cervand/PomoDo/assets/95746489/c44303f6-56d2-4ef7-9214-f724fe9cb391)
-Changes:
-- First material Design 3 mockup of PomoDo
-- Made grid for changing PomoDo parameters.
-- Removed white noise and custom tick sounds
-- Added force wake option and OLED screen protection. 
+<h3>Version 0.2 Figma Design</h3>
+<p>
+   <img src="https://github.com/cervand/PomoDo/assets/95746489/5e206039-c0ec-49a7-b7fe-c89eef36c882" alt="Version 0.1 UI Figma" width="400">
+</p>
 
+Changes: <br>
+- First Material Design 3 mockup of PomoDo.<br>
+- Made grid for changing PomoDo parameters.<br>
+- Removed white noise and custom tick sounds.<br>
+- Added force wake option and OLED screen protection. <br>
 
+<br>
+<br>
 
-
-<h3>Version 0.1</h3>
-- ![image](https://github.com/cervand/PomoDo/assets/95746489/d7961c0a-85f2-4fb3-b811-a0e4c2e67b05) <br>
-Changes:
-- First design for Pomodo App
-- Added Youtube Music Widget inspired timer wheel.
-- Functional focused UI
+<h3>Version 0.1 Figma Design</h3>
+<p>
+   <img src="https://github.com/cervand/PomoDo/assets/95746489/a4ee29f9-47b9-45a5-8f61-3f36be49ccf5.png" alt="Screenshot 2023-07-25 102358" width="400">
+</p>
+Changes:<br>
+- First design for Pomodo App<br>
+- Added Youtube Music Widget inspired timer wheel.<br>
+- Functional focused UI<br>
 
 
