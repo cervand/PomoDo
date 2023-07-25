@@ -16,6 +16,8 @@ Because I am completely new to Android development, I decided to "practice" by b
 
 ## 🛠 Technologies Used
 - Kotlin
+- Android Studio
+- Figma
 
 ## 🗺️ Roadmap (Currently in development)
 - Add the ability to change your work length, break length, work sessions, and long break length in a new window.
