@@ -55,9 +55,8 @@ Changes: <br>
 <p>
    <img src="https://github.com/cervand/PomoDo/assets/95746489/a4ee29f9-47b9-45a5-8f61-3f36be49ccf5.png" alt="Screenshot 2023-07-25 102358" width="400">
 </p>
-Changes:<br>
-- First design for Pomodo App<br>
-- Added Youtube Music Widget inspired timer wheel.<br>
-- Functional focused UI<br>
 
-
+Changes: <br>
+- First design for Pomodo App. <br>
+- Added Youtube Music Widget inspired timer wheel. <br>
+- Functional focused UI. <br>
