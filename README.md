@@ -46,6 +46,7 @@ Changes: <br>
 - Made grid for changing PomoDo parameters.<br>
 - Removed white noise and custom tick sounds.<br>
 - Added force wake option and OLED screen protection. <br>
+- Changed dot work session counter to a descriptive text <br>
 
 <br>
 <br>
