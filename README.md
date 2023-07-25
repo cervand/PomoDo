@@ -4,7 +4,7 @@ PomoDo is a productivity tool that is currently in development that helps you ma
 PomoDo is currently in development. My plan is to develop all of the backend first, and then once it is done, I will begin with the frontend. 
 
 ## 🤔 Why
-Currently, I believe that there is no good-looking, simple Pomodoro timer app that works with WearOS. Most have features that I personally am not into such as tracking all your sessions, setting up individual tasks, etc. I believe that these features take away from the central focus of a Pomodoro, focus and time management. Therefore, my goal with this app to create a simple and pleasing user interface Pomodoro. I also wanted to learn Kotlin and Android app development so I decided that building a basic app was the best course of action.
+Currently, I believe that there is no good-looking, simple Pomodoro timer app that works with WearOS. Most have features that I personally am not into features such as tracking all your sessions, setting up individual tasks, etc. I believe that these features take away from the central focus of a Pomodoro, simplicity, focus and time management. Therefore, my goal with this app to create a simple and pleasing user interface Pomodoro. I also wanted to learn Kotlin and Android app development so I decided that building a basic app was the best course of action.
 
 Because I am completely new to Android development, I decided to "practice" by building the Pomodoro app for an Android device instead of a WearOS device. The endgoal is to connect my Android Pomodo app to its WearOS app and publish to the Play Store.
 
