@@ -36,7 +36,7 @@ Currently, I am able to start a Pomodoro and stop it, as well as show the curren
 
 ## 🖌️ Endgoal UI
 <h3>Version 0.2 </h3>
-![image](https://github.com/cervand/PomoDo/assets/95746489/09b1bff2-0e37-4971-b8cf-6c0d91993c5b) <br>
+![image](https://github.com/cervand/PomoDo/assets/95746489/c44303f6-56d2-4ef7-9214-f724fe9cb391)
 Changes:
 - First material Design 3 mockup of PomoDo
 - Made grid for changing PomoDo parameters.
