@@ -35,16 +35,19 @@ Currently, I am able to start a Pomodoro and stop it, as well as show the curren
 
 
 ## 🖌️ Endgoal UI
-Version 0.2
-![image](https://github.com/cervand/PomoDo/assets/95746489/09b1bff2-0e37-4971-b8cf-6c0d91993c5b)
+<h3>Version 0.2 </h3>
+![image](https://github.com/cervand/PomoDo/assets/95746489/09b1bff2-0e37-4971-b8cf-6c0d91993c5b) <br>
 Changes:
 - First material Design 3 mockup of PomoDo
 - Made grid for changing PomoDo parameters.
 - Removed white noise and custom tick sounds
 - Added force wake option and OLED screen protection. 
 
-Version 0.1
-![image](https://github.com/cervand/PomoDo/assets/95746489/d7961c0a-85f2-4fb3-b811-a0e4c2e67b05)
+
+
+
+<h3>Version 0.1</h3>
+- ![image](https://github.com/cervand/PomoDo/assets/95746489/d7961c0a-85f2-4fb3-b811-a0e4c2e67b05) <br>
 Changes:
 - First design for Pomodo App
 - Added Youtube Music Widget inspired timer wheel.
