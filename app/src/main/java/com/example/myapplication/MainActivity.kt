@@ -11,7 +11,8 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //print this
-        //test change for new android studio
+        //test change for new android studio/
+        //git practice comments
 
         val timeDisplay: TextView = findViewById(R.id.theTextView)
         val pomodoroTimer = PomodoroTimer(textViewObject = timeDisplay)
