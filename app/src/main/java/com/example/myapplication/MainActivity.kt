@@ -10,8 +10,11 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        var timeDisplay: TextView = findViewById(R.id.theTextView)
-        var pomodoroTimer = PomodoroTimer(textViewObject = timeDisplay)
+        //print this
+        //test change for new android studio
+
+        val timeDisplay: TextView = findViewById(R.id.theTextView)
+        val pomodoroTimer = PomodoroTimer(textViewObject = timeDisplay)
         val startPauseButton: Button = findViewById<Button>(R.id.startPauseCont)
         val resetButton: Button = findViewById<Button>(R.id.resetButton)
 
